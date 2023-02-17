@@ -1,3 +1,10 @@
-.vscode
-encrypt.exe
-decrypt.exe
+one-time-pad/decrypt.exe
+one-time-pad/encrypt.exe
+
+.vscode/*
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
